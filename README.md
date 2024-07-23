@@ -15,8 +15,8 @@ Before you begin, ensure you have the following installed on your system:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Islam8Bahaa/AuthProjectBack.git
+cd AuthProjectBack
 ```
 
 ## 🔧 Install Dependencies
