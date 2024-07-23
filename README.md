@@ -1,6 +1,6 @@
-# 🚀 Laravel Project Setup Guide
+# 🚀 Auth Laravel Project Setup Guide
 
-Welcome to the Laravel project! Follow these steps to get your project up and running smoothly. If you encounter any issues, feel free to reach out. Happy coding! 😄
+Welcome to the Auth Laravel project! Follow these steps to get your project up and running smoothly. If you encounter any issues, feel free to reach out. Happy coding! 😄
 
 ## 🛠️ Prerequisites
 
